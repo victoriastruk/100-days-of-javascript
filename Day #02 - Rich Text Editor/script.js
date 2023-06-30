@@ -39,7 +39,7 @@ const intializer = () =>{
       fontSizeRef.appendChild(option);
    }
 
-   fontSizeRef.value = 3;
+   fontSizeRef.value = 4;
 };
 
 const modifyText = (command, defaultUi, value) =>{
