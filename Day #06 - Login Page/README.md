@@ -1,6 +1,6 @@
 # Day #6
 
-### Google Maps
+### Login Page
  Login pages and forms built using CSS.
 
 # Screenshot
